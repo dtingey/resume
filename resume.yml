@@ -10,47 +10,50 @@ experience:
   - company: ZONTAL Inc.
     role: Junior Data Scientist
     duration: May 2023 - Present
-    description:
-      - Developed various applications using Python and JavaScript.
+    responsibilities:
+      - Developed and applied algorithms and visualizations for analyzing scientific data, including NMR, Mass-Spectrometry, and Flow Cytometry.
+      - Deployed and maintained products in production using containerization (Docker), orchestration (Kubernetes), and CI/CD pipelines with Git and Ansible.
+      - Collaborated with cross-functional teams to refine data models and improve system performance.
 
   - company: BYU Department of Physics and Astronomy
     role: Undergraduate Researcher - AI and Biophysics
     duration: Jan 2022 - Aug 2023
-    description:
-      - Developed a physics and deep learning based pipeline to predict small molucule binders for disease-related protein targets.
-      - Published research in the Journal of Chemical Theory and Computation.
-      - Participated and led teams in 3 CACHE Drug Discovery Challenges
+    responsibilities:
+      - Developed a physics and deep learning-based pipeline to predict small molecule binders for disease-related protein targets.
+      - Published research in peer-reviewed journals, including the Journal of Chemical Theory and Computation.
+      - Led and participated in teams for 3 CACHE Drug Discovery Challenges, enhancing collaborative problem-solving skills.
 
   - company: The Coding School
     role: Teaching Assistant - AI and Machine Learning
     duration: Aug 2022 - May 2023
-    description:
-      - Taught two classes of around 20 students each the basic concepts of Python programming, Data Science, Machine Learning, and Artificial Intelligence
-      - Developed curriculum for the AI and Machine Learning course
+    responsibilities:
+      - Taught Python programming, Data Science, Machine Learning, and AI concepts to multiple classes of around 20 students.
+      - Developed and improved curriculum for the AI and Machine Learning courses, enhancing student engagement and comprehension.
 
   - company: BYU Continuing Education
     role: Computing Specialist
     duration: Aug 2021 - Jan 2022
-    description:
-      - Provided technical support to hundreds of employees
-      - Developed internal HR software to aid in processing employment records
-      - Ensured the proper functioning of all computing systems
+    responsibilities:
+      - Provided technical support to over 100 employees, resolving software and hardware issues.
+      - Developed internal HR software to streamline the processing of employment records, increasing operational efficiency.
+      - Ensured optimal performance of all computing systems, reducing downtime and improving user satisfaction.
 
 education:
   - institution: Brigham Young University
-    degree: Bachelor of Science in Computer Science
-    year: 2024
+    degree: Bachelor of Science
+    major: Computer Science
+    graduation_year: 2024
     achievements:
       - Dean's List for 4 semesters
-      - 3.75 GPA
-      - 1st place BYU CS Capstone Competition - Machine Learning
+      - GPA: 3.75
+      - 1st place in BYU CS Capstone Competition - Machine Learning
 
   - institution: Utah State University
     degree: Associate of Science
-    year: 2021
+    graduation_year: 2021
     achievements:
       - Dean's List
-      - 4.0 GPA
+      - GPA: 4.0
 
 publications:
   - title: "CACHE Challenge #1: targeting the WDR domain of LRRK2, a Parkinson’s Disease associated protein"
@@ -69,55 +72,32 @@ projects:
   - name: INSyT - Innovative Network Security Technologies
     description: Python package for network intrusion detection and analysis using LLMs.
     achievements:
-      - Won 1st Place in BYU CS Capstone Competition for Machine Learning.
-    technologies:
-      - Python
-      - PyTorch
-      - HuggingFace
-      - Redis
-      - SQLite
+      - 1st Place in BYU CS Capstone Competition for Machine Learning.
+    technologies: [Python, PyTorch, HuggingFace, Redis, SQLite]
     link: https://github.com/Isaacwilliam4/INSyT
 
   - name: OBi-WAn - Open Biology Workflow Agent
-    description: Computational biology LLM agent that performs computational experimentation, data analysis, and visualization tasks.
-    technologies:
-      - Python
-      - FastAPI
-      - SvelteKit
-      - AWS Lambda
+    description: Created a computational biology LLM agent for data analysis, experimentation, and visualization.
+    technologies: [Python, FastAPI, SvelteKit, AWS Lambda]
     link: https://github.com/dtingey
 
   - name: Transformer Interatomic Potentials (Della Corte Lab)
-    description: Novel 3D Transformer model for biophysical simulation and cross-platform integration with Molecular Dynamics software.
-    technologies:
-      - PyTorch
-      - SLURM
-      - OpenMM
+    description: Developed a 3D Transformer model for biophysical simulation and integration with Molecular Dynamics software.
+    technologies: [PyTorch, SLURM, OpenMM]
     link: https://github.com/dellacortelab/trip
 
   - name: Computational Pipeline for Targeted Drug Discovery (Della Corte Lab)
-    description: Computational drug discovery pipeline applying physics-based and deep learning-based techniques to screen small molecules for protein targets.
-    technologies:
-      - SLURM
-      - Gromacs
-      - OpenMM
-      - Statistical Analysis
+    description: Built a computational pipeline using physics-based and deep learning techniques for drug discovery.
+    technologies: [SLURM, Gromacs, OpenMM, Statistical Analysis]
 
   - name: Scripture-RAG
-    description: Semantic Search and RAG Chat Application for the LDS Scriptures.
-    technologies:
-      - HuggingFace
-      - AWS Lambda
-      - SvelteKit
+    description: Created a semantic search and RAG chat application for LDS scriptures.
+    technologies: [HuggingFace, AWS Lambda, SvelteKit]
     link: https://github.com/dtingey
 
   - name: RetNet Validation (Dragn Labs)
-    description: Validating the RetNet model architecture and comparing it to other SoTA model architectures.
-    technologies:
-      - PyTorch
-      - Lightning
-      - HuggingFace
-      - SLURM
+    description: Validated the RetNet model architecture against other state-of-the-art models.
+    technologies: [PyTorch, Lightning, HuggingFace, SLURM]
     link: https://github.com/DRAGNLabs/301r_retnet.git
 
 skills:
@@ -126,21 +106,23 @@ skills:
   - JavaScript
   - Machine Learning
   - Deep Learning
-  - Data Science
-  - SQL
+  - Data Analysis
+  - Statistical Modeling
+  - Databases (SQL, NoSQL)
   - Git
   - Docker
   - Kubernetes
   - AWS
   - Apache Airflow
-  - PyTorch
   - Ansible
-  - Databases(SQL, NoSQL)
+  - PyTorch
+  - Flask
+  - FastAPI
+  - SvelteKit
   - High Performance Computing
+  - SLURM
   - Linux
   - Bash
-  - Web Development
-  - Flask
+  - CI/CD
+  - English
   - Dutch
-
-  
